@@ -1,0 +1,82 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-link{
+    margin-right: 20px;
+    font-weight: 700;
+    color: black;
+    font-size: 20px;
+}
+.sign-btn{
+    width: 130px;
+    text-decoration: none;
+    border: none;
+    background-color: #21B573;
+    padding: 10px 15px;
+    border-radius: 33px;
+    color: white;
+    font-size: 15px;
+}
+.bg{
+    background-color: #F0FFF0;
+    background-size: 100%;
+}
+span{
+    color: #21B573;
+    font-size: 50px;
+}
+.side-text{
+    font-weight: 900;
+    padding: 50px;
+    margin: 0px;
+    text-align: left;
+}
+.first-part{
+    margin-top: 50px;
+}
+.side-text p{
+    color: #6C6B6B;
+}
+.card-withhover{
+    margin-top: 50px;
+    border: none;
+    border-radius: 10px;
+    background-color: #F0FFF0;
+    transition: 0.5s ease ;
+}
+.card-withhover:hover{
+    background-color: white;
+    box-shadow: 5px 5px 15px 7px  lightgrey;
+}
+.card-withhover img{
+    width: 30%;
+   margin: 25% 35%;
+}
+.course-online{
+    margin-top: 50px;
+    margin-bottom: 35px;
+}
+.online-course-card img{
+    padding: 15px;
+}
+.online-course-card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 7px 7px 10px 10px lightgrey;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
+.testimonial{
+    padding: 50px 10px;
+}
+.last-bg{
+    background-color: #282531;
+    color: white;
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
